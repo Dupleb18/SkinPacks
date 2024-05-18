@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "ZekeWolf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ZekeSkin.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "ZekeSkins",
+  "localization_name": "ZekeSkins"
+}

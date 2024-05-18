@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Skins of Zeke",
+        "uuid": "dfefa287-faa8-4cf0-8f66-21196450097e",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "4cdfe7e8-febc-4d7b-b1a1-0345754ceac1",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
